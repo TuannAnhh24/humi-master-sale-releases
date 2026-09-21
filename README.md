@@ -4,7 +4,7 @@ Phần mềm quản lý cửa hàng xe điện trên Windows 64-bit. Dữ liệu
 
 ## Tải và cài đặt
 
-[Tải bộ cài 2.0.4 BETA cho Windows](https://github.com/TuannAnhh24/humi-master-sale-releases/releases/download/v2.0.4-beta/HumiMasterSaleTool_Setup_x64.exe)
+[Tải bộ cài 2.0.5 BETA cho Windows](https://github.com/TuannAnhh24/humi-master-sale-releases/releases/download/v2.0.5-beta/HumiMasterSaleTool_Setup_x64.exe)
 
 1. Mở file **HumiMasterSaleTool_Setup_x64.exe** vừa tải và làm theo hướng dẫn.
 2. Mở **Humi Master Sale tool** từ Desktop hoặc Start Menu.
